@@ -7,7 +7,7 @@ void update(int arr[], int n) {
     
     //updating array's first element
     arr[0] = 120;
-
+    arr[2] = 140;
     //printing the array
     for(int i=0; i<3; i++) {
         cout << arr[i] <<" ";
