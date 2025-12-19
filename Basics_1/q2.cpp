@@ -19,5 +19,5 @@ int main(){
     // int size = sizeof(d);
     // int size = sizeof(e);
     
-    cout<< "Size od a is:" << size <<endl;
+    cout<< "Size of a is:" << size <<endl;
 }
