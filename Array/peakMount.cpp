@@ -17,6 +17,6 @@ int peakIndexMountainArray(int arr[], int size){
 }
 
 int main(){
-    int arr[6] = {0,1,2,4,8};
-    cout << peakIndexMountainArray(arr, 6);
+    int arr[4] = {3,4,5,1};
+    cout << peakIndexMountainArray(arr, 4);
 }
